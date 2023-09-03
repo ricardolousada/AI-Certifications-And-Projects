@@ -12,5 +12,6 @@ This is a space where I keep the code of my AI Certications and Specializations 
 
 **1. Self Driving Cars**
 
-In this series of articles you can find the main tecnologies used by Self Driving Cars
-[Lane Detection](https://github.com/ricardolousada/Self-Driving-Cars)
+In this series of articles you can find the main tecnologies used by Self Driving Cars.
+
+1.1 [Lane Detection](https://github.com/ricardolousada/Self-Driving-Cars)
