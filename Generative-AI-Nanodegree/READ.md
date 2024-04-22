@@ -12,7 +12,7 @@ You can read more about the program here: [UDACITY GENERARIVE AI NANODEGREE](htt
 
 Dive into generative AI with this course, which explores its fundamental principles and relationship to prior artificial intelligence innovations. We will walk through popular generative models and how they work, how deep learning models are developed using tools like PyTorch and Hugging Face, and finally, how to customize pre-trained open-source models for a specific use case. In the project, you will apply a cutting-edge technique called parameter-efficient fine-tuning (PEFT), which allows for the adaptation of massive foundation models with minimal usage of computational resources.
 
-  ### Project Apply Lightweith Fine-Tuning to a Fundation Model(https://github.com/ricardolousada/AI-Certifications-And-Projects/blob/main/Generative-AI-Nanodegree/LightweightFineTuning.ipynb)
+  ### [Project Apply Lightweith Fine-Tuning to a Fundation Model](https://github.com/ricardolousada/AI-Certifications-And-Projects/blob/main/Generative-AI-Nanodegree/LightweightFineTuning.ipynb)
  
 
 
