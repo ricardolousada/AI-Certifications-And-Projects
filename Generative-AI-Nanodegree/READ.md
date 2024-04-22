@@ -6,4 +6,4 @@ enhance the development of software applications. The program addresses the grow
 generative foundation models, crafting custom applications using large language models (LLMs), and
 employing advanced techniques like Stable Diffusion.
 
-You can read more about the program here: [external.ink?to=yourlink.com](https://external.ink?to=udacity.com/enrollment/nd608/1.0.20)
+You can read more about the program here: [external.ink?to=UDACITY GENERARIVE AI NANODEGREE](https://external.ink?to=udacity.com/enrollment/nd608/1.0.20)
