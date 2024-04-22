@@ -1,4 +1,4 @@
-## This is the folder with the Generative AI Nanodegree from Udacity
+# This is the folder with the Generative AI Nanodegree from Udacity
 
 This is a nanodegre in an era where generative AI is reshaping the landscape of software development, 
 the Generative AI Nanodegree program delves into essential skills to apply these cutting-edge technologies to
