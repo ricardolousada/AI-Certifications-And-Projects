@@ -10,7 +10,7 @@ This is a space where I keep the code of my AI Certications and Specializations 
 
 **2. Generative AI Nanodegree from Udacity**
    - [Link to the course in Udacity](https://www.udacity.com/course/generative-ai--nd608)
-   - [Course code - Jupyther Notebooks]
+   - [Course code - Jupyther Notebooks](https://github.com/ricardolousada/AI-Certifications-And-Projects/tree/main/Generative-AI-Nanodegree)
 
 # Articles and small projects
 
