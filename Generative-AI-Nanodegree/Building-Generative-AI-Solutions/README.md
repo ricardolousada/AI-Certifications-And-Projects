@@ -1,6 +1,7 @@
 # This is the repo for the project code of the exercise in module 5 - Building Generative AI Solutions
 
 **How to run the application:** please check the notebook for instructions
+
 **HOME MATCH main functionalities:**
 
 **Generating Real Estate Listings with an LLM**
