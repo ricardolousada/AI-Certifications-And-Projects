@@ -40,7 +40,7 @@ Dive deeper into how computers process and understand image and data, then harne
 Dive into AI development and design, focusing on practical skills and theoretical knowledge. This module covers semantic search, teaching how AI intreperts and responds to human language, and vector databases for managing complex AI data strutures. The module also explores LangChain for building language models and practical applications of AI in varius fields. 
 
   ### PROJECT  
-  ### [Personalized Real Estate Agent]
+  ### [Personalized Real Estate Agent](/Building-Generative-AI-Solutions)
 
 The goal of this project was to crate a "Real Estate Agent" that uses large language models for content generation, and vector databases for semantic search to provide personalized real estate listings.
 
