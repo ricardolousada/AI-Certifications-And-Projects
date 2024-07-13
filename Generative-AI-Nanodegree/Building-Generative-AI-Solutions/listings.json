@@ -1,0 +1,218 @@
+[
+  {
+    "neighborhood": "Rato",
+    "price": 950000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_size": 300,
+    "description": "Luxurious 4-bedroom, 3-bathroom townhouse in the heart of Rato. This beautifully renovated property features high-end finishes, a modern kitchen, and a rooftop terrace with stunning city views. Enjoy the convenience of living in a vibrant neighborhood with easy access to shops, restaurants, and public transportation."
+  },
+  {
+    "neighborhood": "São Bento",
+    "price": 1200000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "house_size": 350,
+    "description": "Elegant 5-bedroom, 4-bathroom villa in São Bento. This spacious home offers a blend of traditional architecture and modern amenities. Relax in the private garden or entertain guests in the stylish living areas. Enjoy the tranquility of São Bento while being just a short walk away from cultural attractions and gourmet restaurants."
+  },
+  {
+    "neighborhood": "Ajuda",
+    "price": 650000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_size": 200,
+    "description": "Charming 3-bedroom, 2-bathroom house with panoramic views in Ajuda. This bright and airy property features a cozy fireplace, a modern kitchen, and a spacious terrace overlooking the river. Experience the peaceful surroundings of Ajuda while still being close to schools, parks, and historical landmarks."
+  },
+  {
+    "neighborhood": "Lapa",
+    "price": 1800000,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "house_size": 400,
+    "description": "Stunning 6-bedroom, 5-bathroom mansion in Lapa. This grand property boasts a private swimming pool, a wine cellar, and a lush garden perfect for outdoor entertaining. Enjoy the luxury of Lapa living with easy access to upscale boutiques, art galleries, and gourmet dining options."
+  },
+  {
+    "neighborhood": "Estrela",
+    "price": 850000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_size": 220,
+    "description": "Modern 3-bedroom, 3-bathroom duplex in Estrela. This sleek and stylish home features a designer kitchen, a spacious balcony, and a private garage. Embrace the vibrant lifestyle of Estrela with its trendy cafes, cultural venues, and beautiful parks just steps away."
+  },
+  {
+    "neighborhood": "Chiado",
+    "price": 800000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_size": 250,
+    "description": "Welcome to this eco-friendly oasis nestled in the heart of Chiado. This charming 3-bedroom, 2-bathroom home boasts energy-efficient features such as solar panels and a well-insulated structure. Natural light floods the living spaces, highlighting the beautiful hardwood floors and eco-conscious finishes. The open-concept kitchen and dining area lead to a spacious backyard with a vegetable garden, perfect for the eco-conscious family. Embrace sustainable living without compromising on style in this Chiado gem. Chiado is a close-knit, environmentally-conscious community with access to organic grocery stores, community gardens, and bike paths. Take a stroll through the nearby Chiado park or grab a cup of coffee at the cozy corner Cafe. With easy access to public transportation and bike lanes, commuting is a breeze."
+  },
+  {
+    "neighborhood": "Baixa",
+    "price": 700000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "house_size": 180,
+    "description": "Cozy 2-bedroom, 1-bathroom apartment in the historic district of Baixa. This charming property features exposed brick walls, a modern kitchen, and views of the bustling streets below. Immerse yourself in the vibrant atmosphere of Baixa with its lively markets, traditional Fado music venues, and iconic landmarks just outside your doorstep."
+  },
+  {
+    "neighborhood": "Príncipe Real",
+    "price": 1300000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_size": 280,
+    "description": "Spacious 4-bedroom, 3-bathroom townhouse in Príncipe Real. This elegant home offers a private garden, a rooftop terrace, and a cozy fireplace in the living room. Enjoy the trendy boutiques, gourmet restaurants, and lush green spaces that make Príncipe Real a sought-after neighborhood in Lisbon."
+  },
+  {
+    "neighborhood": "Campo de Ourique",
+    "price": 950000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_size": 210,
+    "description": "Bright and airy 3-bedroom, 2-bathroom penthouse in Campo de Ourique. This modern property features a spacious living area, a designer kitchen, and a large terrace with panoramic views of the city. Experience the charm of Campo de Ourique with its local markets, cozy cafes, and cultural attractions just a short walk away."
+  },
+  {
+    "neighborhood": "Rato",
+    "price": 1100000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_size": 320,
+    "description": "Contemporary 4-bedroom, 3-bathroom villa in Rato. This sleek and stylish home boasts a private swimming pool, a rooftop deck, and a state-of-the-art home automation system. Live in luxury in the heart of Rato with easy access to upscale shopping, gourmet dining, and vibrant nightlife."
+  },
+  {
+    "neighborhood": "São Bento",
+    "price": 1400000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "house_size": 380,
+    "description": "Magnificent 5-bedroom, 4-bathroom mansion in São Bento. This historic property has been meticulously restored to its former glory, featuring original architectural details, a grand staircase, and a private courtyard. Indulge in the sophistication of São Bento with its upscale galleries, antique shops, and fine dining establishments."
+  },
+  {
+    "neighborhood": "Ajuda",
+    "price": 720000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_size": 190,
+    "description": "Quaint 3-bedroom, 2-bathroom cottage in Ajuda. This charming home offers a peaceful retreat with a garden, a cozy fireplace, and a covered patio for outdoor dining. Enjoy the tranquility of Ajuda while still being just a short drive away from the city center and the waterfront."
+  },
+  {
+    "neighborhood": "Lapa",
+    "price": 2000000,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "house_size": 420,
+    "description": "Luxury 6-bedroom, 5-bathroom villa in Lapa. This prestigious property features a private pool, a wine cellar, and a guest house for visitors. Live in opulence in Lapa with its exclusive boutiques, Michelin-starred restaurants, and scenic waterfront promenade just moments away."
+  },
+  {
+    "neighborhood": "Estrela",
+    "price": 900000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_size": 240,
+    "description": "Spacious 4-bedroom, 3-bathroom apartment in Estrela. This contemporary home offers panoramic city views, a modern kitchen, and a private balcony for outdoor relaxation. Immerse yourself in the vibrant culture of Estrela with its historic architecture, trendy cafes, and lush green parks nearby."
+  },
+  {
+    "neighborhood": "Chiado",
+    "price": 750000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_size": 200,
+    "description": "Chic 2-bedroom, 2-bathroom loft in Chiado. This stylish property features high ceilings, industrial accents, and a mezzanine level perfect for a home office or guest room. Live in the heart of Chiado with its trendy boutiques, art galleries, and gourmet eateries just steps away."
+  },
+  {
+    "neighborhood": "Baixa",
+    "price": 680000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_size": 180,
+    "description": "Renovated 3-bedroom, 2-bathroom apartment in Baixa. This modern property boasts an open-plan layout, designer finishes, and views of the historic streets below. Experience the vibrant energy of Baixa with its bustling markets, street performers, and cultural events right at your doorstep."
+  },
+  {
+    "neighborhood": "Príncipe Real",
+    "price": 1250000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_size": 260,
+    "description": "Contemporary 3-bedroom, 3-bathroom townhouse in Príncipe Real. This sleek home features a rooftop terrace, a gourmet kitchen, and a private garage. Enjoy the trendy atmosphere of Príncipe Real with its fashionable boutiques, organic markets, and vibrant nightlife scene."
+  },
+  {
+    "neighborhood": "Campo de Ourique",
+    "price": 980000,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "house_size": 230,
+    "description": "Modern 4-bedroom, 2-bathroom penthouse in Campo de Ourique. This contemporary property offers a spacious living area, a designer kitchen, and a large terrace with city views. Live in style in Campo de Ourique with its charming cafes, gourmet restaurants, and cultural hotspots just around the corner."
+  },
+  {
+    "neighborhood": "Rato",
+    "price": 1050000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "house_size": 340,
+    "description": "Luxurious 5-bedroom, 4-bathroom villa in Rato. This grand property features a private swimming pool, a landscaped garden, and a wellness area with a sauna and gym. Indulge in the upscale lifestyle of Rato with its designer boutiques, Michelin-starred restaurants, and exclusive clubs."
+  },
+  {
+    "neighborhood": "São Bento",
+    "price": 1500000,
+    "bedrooms": 6,
+    "bathrooms": 5,
+    "house_size": 400,
+    "description": "Elegant 6-bedroom, 5-bathroom mansion in São Bento. This stately home exudes sophistication with its grand foyer, formal dining room, and private library. Live in luxury in São Bento with its prestigious art galleries, historic landmarks, and upscale dining options just a stone's throw away."
+  },
+  {
+    "neighborhood": "Ajuda",
+    "price": 750000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_size": 220,
+    "description": "Spacious 4-bedroom, 3-bathroom house with garden in Ajuda. This family-friendly home offers a bright and airy living space, a modern kitchen, and a covered patio for outdoor dining. Enjoy the peaceful surroundings of Ajuda while still being close to schools, parks, and amenities."
+  },
+  {
+    "neighborhood": "Lapa",
+    "price": 2200000,
+    "bedrooms": 7,
+    "bathrooms": 6,
+    "house_size": 450,
+    "description": "Luxury 7-bedroom, 6-bathroom villa with pool in Lapa. This prestigious property features a private pool, a wine cellar, and a spacious terrace with panoramic city views. Live in opulence in Lapa with its exclusive boutiques, gourmet restaurants, and cultural attractions just a short stroll away."
+  },
+  {
+    "neighborhood": "Estrela",
+    "price": 950000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "house_size": 260,
+    "description": "Magnificent 5-bedroom, 4-bathroom duplex in Estrela. This elegant home offers a private garden, a rooftop terrace, and a stylish interior with designer finishes. Immerse yourself in the vibrant lifestyle of Estrela with its trendy cafes, upscale boutiques, and beautiful parks just moments away."
+  },
+  {
+    "neighborhood": "Chiado",
+    "price": 780000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_size": 280,
+    "description": "Contemporary 4-bedroom, 3-bathroom apartment in Chiado. This sleek and stylish property features an open-plan layout, high-end appliances, and a private balcony with city views. Live in the heart of Chiado with its trendy cafes, art galleries, and designer boutiques just steps away."
+  },
+  {
+    "neighborhood": "Baixa",
+    "price": 700000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_size": 190,
+    "description": "Charming 2-bedroom, 2-bathroom flat in Baixa. This cozy property offers a modern kitchen, a spacious living area, and views of the historic streets below. Experience the lively atmosphere of Baixa with its vibrant markets, cultural events, and traditional Fado music venues nearby."
+  },
+  {
+    "neighborhood": "Príncipe Real",
+    "price": 1350000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "house_size": 320,
+    "description": "Stylish 5-bedroom, 4-bathroom townhouse in Príncipe Real. This contemporary home boasts a rooftop terrace, a gourmet kitchen, and a private garage. Enjoy the cosmopolitan vibe of Príncipe Real with its fashionable boutiques, upscale eateries, and cultural hotspots just a short walk away."
+  },
+  {
+    "neighborhood": "Campo de Ourique",
+    "price": 1000000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_size": 230,
+    "description": "Modern 3-bedroom, 3-bathroom penthouse in Campo de Ourique. This sleek property features a spacious living area, a designer kitchen, and a large terrace with city views. Live in style in Campo de Ourique with its charming cafes, gourmet restaurants, and trendy boutiques just around the corner."
+  }
+]
