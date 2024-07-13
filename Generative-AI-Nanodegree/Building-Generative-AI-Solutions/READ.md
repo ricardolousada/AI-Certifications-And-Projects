@@ -1,10 +1,10 @@
-# This is the repository for the project code of the exercise of module 5 - Building Genrative AI Solutions
+# This is the repo for the project code of the exercise in module 5 - Building Generative AI Solutions
 
-**The functionalyties of this application are:**
+**HOME MATCH main functionalities:**
 
 **Generating Real Estate Listings with an LLM**
 
-This project starts by prompting chatgpt 3-5 - Turbo to do Synthetic Data Generation, creating realistic real estate listings containing facts about the real estate. In a real life situation this would be the listing that the real estate agency has to sell.
+This project starts by prompting chatgpt 3-5 - turbo to do Synthetic Data Generation, creating realistic real estate listings containing facts about the real estate. In a real life situation this would be the listing that the real estate agency has to sell.
 Creating a Vector Database and Storing Listings
 Then it uses lancedb, a vector database, and the class “Lance Model” to create a representation of a listing and store the information about the listings in the database.
 
@@ -15,7 +15,7 @@ Then with this information the application performs a semantic search based on g
 
 **Logic for Searching and Augmenting Listing Descriptions**
 
-Now with the user input and the context from the top 5 listing previously mentioned, the application makes another call to the LLM model and uses LLM augmentation to personalize the recommended listing without changing factual information.
+Now with the user input and the context from the top 5 listings previously mentioned, the application makes another call to the LLM model and uses LLM augmentation to personalize the recommended listing without changing factual information.
 
 **Use of LLM for Generating Personalized Descriptions**
 
