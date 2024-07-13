@@ -1,6 +1,6 @@
 # This is the repo for the project code of the exercise in module 5 - Building Generative AI Solutions
 
-**How to run the application:** please check the [notebook](Generative-AI-Nanodegree/Building-Generative-AI-Solutions/HomeMatch_v1.0.ipynb) for instructions
+**How to run the application:** please check the [notebook](HomeMatch_v1.0.ipynb) for instructions
 
 **HOME MATCH main functionalities:**
 
