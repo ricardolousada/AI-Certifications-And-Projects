@@ -13,7 +13,7 @@ You can read more about the program here: [UDACITY GENERARIVE AI NANODEGREE](htt
 Dive into generative AI with this course, which explores its fundamental principles and relationship to prior artificial intelligence innovations. We will walk through popular generative models and how they work, how deep learning models are developed using tools like PyTorch and Hugging Face, and finally, how to customize pre-trained open-source models for a specific use case. In the project, you will apply a cutting-edge technique called parameter-efficient fine-tuning (PEFT), which allows for the adaptation of massive foundation models with minimal usage of computational resources.
 
   ### PROJECT  
-  ### [Apply Lightweith Fine-Tuning to a Fundation Model](https://github.com/ricardolousada/AI-Certifications-And-Projects/blob/main/Generative-AI-Nanodegree/Generative-AI-Fundamentals/README.md)
+  ### [Apply Lightweith Fine-Tuning to a Fundation Model](https://github.com/ricardolousada/AI-Certifications-And-Projects/blob/main/Generative-AI-Nanodegree/Generative-AI-Fundamentals)
 
   The goal of this project was to load and customize a Hugging Face foundation model using parameter-efficient fine-tuning. This technique allows to harness the power of a pre-trained model for a custom task. 
  
@@ -22,7 +22,7 @@ Dive into generative AI with this course, which explores its fundamental princip
 Dive deeper into how computers understand and create language, learn how to build a custom chatbot using unsupervised machine learning, prompt engineering, and retrieval augmented generation. Overview of the types of LLM's, the differences between them, and how best to account for their strengths and weaknesses. Deep dive in internal details, including natural languague processing (NLP) techniques like tokenization, as well as modern transformer architectures and attention mechanisms.
 
   ### PROJECT  
-  ### [Build Your Own Custom Chatbot](https://github.com/ricardolousada/AI-Certifications-And-Projects/blob/main/Generative-AI-Nanodegree/Large-Languague-Models-and-Text-Generation/README.md)
+  ### [Build Your Own Custom Chatbot](https://github.com/ricardolousada/AI-Certifications-And-Projects/blob/main/Generative-AI-Nanodegree/Large-Languague-Models-and-Text-Generation)
 
   The goal of this project was to build a custom OpenAI chatbot using a scenario of my choice. I have selected the wikipedia page of Sporting Clube the Portugal to build my custom dataset and explained why the data source is appropriate for the task, incorporating the data source into the custom chatbot code, and writing questions to demonstrate the performance of the custom prompt.
 
