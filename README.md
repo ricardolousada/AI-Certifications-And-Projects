@@ -2,7 +2,7 @@
 
 This is a space where I keep the code of my AI Certications and Specializations plus some other AI related courses and code.
 
-# Specializations
+# Specializations and Courses
 
 **1. Machine Learning Specialization from Coursera**
    - [Link to the course in Coursera](https://www.coursera.org/specializations/machine-learning-introduction)
@@ -11,6 +11,10 @@ This is a space where I keep the code of my AI Certications and Specializations 
 **2. Generative AI Nanodegree from Udacity**
    - [Link to the course in Udacity](https://www.udacity.com/course/generative-ai--nd608)
    - [Course code - Jupyter Notebooks](https://github.com/ricardolousada/AI-Certifications-And-Projects/blob/main/Generative-AI-Nanodegree/README.md)
+
+**3. **IBM Machine Learning with Python**
+   - [Link to the course in Coursera](https://www.coursera.org/learn/machine-learning-with-python)
+   - [Course description and final project code]
 
 # Articles and small projects
 
