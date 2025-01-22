@@ -31,7 +31,7 @@ Python is one of the most widely used programming languages in machine learning 
 
 ---
 ## Course Final Project
-[Final Project Code](file-path-or-URL)
+[Final Project Code](https://github.com/ricardolousada/AI-Certifications-And-Projects/blob/main/IBM-Machine-Learning/ML0101EN_SkillUp_FinalAssignment_RAL%20(2).ipynb)
 
 
 
