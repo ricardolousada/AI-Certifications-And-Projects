@@ -30,7 +30,8 @@ Python is one of the most widely used programming languages in machine learning 
 - Work on practical projects using **Jupyter Notebooks**.
 
 ---
-
+## Course Final Project
+[Final Project Code](file-path-or-URL)
 
 
 
